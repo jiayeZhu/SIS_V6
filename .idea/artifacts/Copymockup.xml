@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Copymockup">
+    <output-path>$PROJECT_DIR$/out/artifacts/mockup</output-path>
+    <root id="root">
+      <element id="dir-copy" path="$PROJECT_DIR$/src/SISv6/mockup" />
+    </root>
+  </artifact>
+</component>
